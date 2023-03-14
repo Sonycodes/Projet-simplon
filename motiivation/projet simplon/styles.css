@@ -417,12 +417,10 @@ body{
   
   #contacts-header > h2{
     font-size: 3rem;
-    color:;
      width:100%
   }
   
   #contacts-header > p{
-    color:;
     font-style:italic;
     text-align:center;
     font-weight:100;
